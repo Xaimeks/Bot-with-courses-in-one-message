@@ -22,7 +22,7 @@ def kurs_kb():
 
 def selfimpurl():
     keyboard_builder = InlineKeyboardBuilder()
-    keyboard_builder.button(text='🎓Курсы', url='https://t.me/+pxM9DYZZnYk1NGQ0')
+    keyboard_builder.button(text='🎓Курсы', url='any reference')
     keyboard_builder.button(text='◀️Назад', callback_data='kursi')
 
     keyboard_builder.adjust(1)
@@ -31,7 +31,7 @@ def selfimpurl():
 
 def iturl():
     keyboard_builder = InlineKeyboardBuilder()
-    keyboard_builder.button(text='🎓Курсы', url='https://t.me/+75Ui-70pJqBiMDBk')
+    keyboard_builder.button(text='🎓Курсы', url='any reference')
     keyboard_builder.button(text='◀️Назад', callback_data='kursi')
 
     keyboard_builder.adjust(1)
@@ -40,7 +40,7 @@ def iturl():
 
 def design():
     keyboard_builder = InlineKeyboardBuilder()
-    keyboard_builder.button(text='🎓Курсы', url='https://t.me/+nfPpYWI7x4U0YzU0')
+    keyboard_builder.button(text='🎓Курсы', url='any reference')
     keyboard_builder.button(text='◀️Назад', callback_data='kursi')
 
     keyboard_builder.adjust(1)
@@ -49,7 +49,7 @@ def design():
 
 def other():
     keyboard_builder = InlineKeyboardBuilder()
-    keyboard_builder.button(text='🎓Курсы', url='https://t.me/+1WS_qVWYNqRiNmRk')
+    keyboard_builder.button(text='🎓Курсы', url='any reference')
     keyboard_builder.button(text='◀️Назад', callback_data='other')
 
     keyboard_builder.adjust(1)
